@@ -1,5 +1,3 @@
-# End_To_End_Azure_Projects
-Data Engineering Project
 
 # Azure End-to-End Data Engineering Project
 
@@ -84,3 +82,4 @@ The data pipeline follows this sequence:
 For any questions or support, please contact [Janvi Chitroda](mailto:janvichitroda0824@gmail.com).
 
 ---
+ 
